@@ -1,0 +1,24 @@
+.search-result-item {
+    display: flex;
+}
+
+.search-result-item__picture {
+    width: 250px;
+}
+
+.search-result-item__data {
+    flex-grow: 1;
+}
+
+button {
+    margin-left: 20px;
+}
+
+.search__title {
+    font-size: 16px;
+}
+
+.pep {
+    width: 100px;
+    height: 100px;
+}
